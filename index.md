@@ -11,5 +11,10 @@
 $ git init 
 Repositorio Git vacío inicializado en https://github.com/AstridLeal/My-Python-codes.git 
 ```
+###### Mi lista
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 ###### Este archivo fue modificado el 03/07/24.
